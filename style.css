@@ -1,0 +1,19 @@
+body {
+    font-size: 15pt;
+    margin: 0;
+    padding: 0;
+}
+
+.container-flex-column{
+  display: flex;
+  flex-direction: column;
+}
+
+.container-flex-row{
+  background-color: #92A0B4;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 15px;
+  color: white;
+}
